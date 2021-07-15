@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "myFriend",
+    "slug": "myfriend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5fc9ca"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.AbsoluteValueArcadia.myFriend",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.AbsoluteValueArcadia.myFriend",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Logo.png",
+        "backgroundColor": "#5fc9ca"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Logo.png"
+    },
+    "description": "At its core, myFriend is an application that aims to bridge the divide between students that the COVID-19 pandemic has caused. The app aims to understand the interests of individual students and then connect students with others of similar interests to build friendships. It automatically generates group chats for each club, course, and organization. myFriend’s algorithm will recommend these groups to students based on their selected interests. From there, the students may find other individuals who they can also connect with via direct messages. Additionally, schools have the option of providing interactive tours through the myFriend Experience. The platform will feature support for Virtual Reality and Augmented Reality tours alongside the traditional video tours, to truly elevate the interactivity that we are able to bring to the table.\n\nProject myFriend will allow for students to return to in-person learning with a more innate knowledge of their school and fellow classmates. It will help bridge connections that were severely missed over the previous year, and provide clubs and organizations an opportunity to grow interest amongst underclassmen and other students. Through this application, we are able to form connections and experiences to reignite the passion for learning.",
+    "githubUrl": "https://github.com/nipunbatra8/myFriend"
+  }
+}
